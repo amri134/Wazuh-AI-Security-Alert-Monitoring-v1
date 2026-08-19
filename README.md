@@ -1,1 +1,1 @@
-"# Wazuh-AI-Security-Alert-Monitoring-v1" 
+Wazuh AI Security Alert Monitoring — Sistem monitoring keamanan realtime yang mengintegrasikan Wazuh Cloud, Telegram Bot, dan Google Gemini AI. Alert Level 0–6 dikirim langsung ke Telegram, sedangkan Level 7–15 dianalisis AI untuk memberikan ringkasan kejadian, kemungkinan penyebab, dampak, dan rekomendasi penanganan. Sistem dilengkapi deduplication, AI cache, retry, dan fallback untuk menjaga efisiensi serta memastikan alert tetap terkirim ketika layanan AI tidak tersedia.
